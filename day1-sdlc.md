@@ -1,4 +1,5 @@
 Topic: SDLC, STLC, role of a tester
+
 1Q) What is Software Development life cycle and what are its main phases?
 Ans: Software development life cycle is a structured process Used to design, develop, test and deliver software efficiently.
 Main phases:
